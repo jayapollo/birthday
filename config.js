@@ -70,7 +70,7 @@ var config = {
         balloons_flying: "next",
         cake_fadein: "cake",
         light_candle: "next",
-        wish_message: "Happt birthday",
+        wish_message: "make a wish~",
         story: "A MESSAGE FOR YOU",
     }
 };
